@@ -540,6 +540,7 @@
 #define BOARD_ENWI_ESPNP              7009  // enwi ESPNP based on ESP32 (with I2S stepper stream)
 #define BOARD_GODI_CONTROLLER_V1_0    7010  // Godi Controller based on ESP32 32-Bit V1.0
 #define BOARD_MM_JOKER                7011  // MagicMaker JOKER based on ESP32 (with I2S stepper stream)
+#define BOARD_ESP32S3_N16R8_CNC       7012  // ESP32-S3 WROOM N16R8 CNC controller
 
 //
 // SAMD51 ARM Cortex-M4
