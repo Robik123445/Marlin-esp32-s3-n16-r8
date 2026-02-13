@@ -903,6 +903,8 @@
   #include "esp32/pins_GODI_CONTROLLER_V1_0.h"      // ESP32                                env:godi_esp32
 #elif MB(MM_JOKER)
   #include "esp32/pins_MM_JOKER.h"                  // ESP32                                env:esp32
+#elif MB(ESP32S3_N16R8_CNC)
+  #include "esp32/pins_ESP32S3_N16R8_CNC.h"         // ESP32-S3                             env:esp32s3_n16r8_cnc
 
 //
 // Adafruit Grand Central M4 (SAMD51 ARM Cortex-M4)
